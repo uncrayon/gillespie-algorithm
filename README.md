@@ -6,7 +6,6 @@ We will extend the Gillespie' SSA from a open-closed-space to a open-closed-grid
 
 # References
 
-References
 [1] Gamba, A., de Candia, A., Di Talia, S., Coniglio, A., Bussolino, F., & Serini, G. (2005). Diffusion-limited phase separation in eukaryotic chemotaxis. Proceedings Of The National Academy Of Sciences, 102(47), 16927-16932. doi: 10.1073/pnas.0503974102
 
 [2] Gillespie, D. (2007). Stochastic Simulation of Chemical Kinetics. Annual Review Of Physical Chemistry, 58(1), 35-55. doi: 10.1146/annurev.physchem.58.032806.104637
