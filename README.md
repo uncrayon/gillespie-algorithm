@@ -1,4 +1,4 @@
-# A implementation for diffusion-limited pahse separation in eukatyric chemotaxis
+# An implementation for diffusion-limited pahse separation in eukatyric chemotaxis
 
 The usage of SSA for chemical reactions opens a paradigm in understanting of chemotaxis processes. In [1] the authors introduce a model for the interaction dynamics of $PI3K$, $PTEN$, $PIP_{2}$ and $PIP_{3}$ molecular species in the cellular membrane. This reactions occurs on the surface of a sphere and as a simplification (and a tool for computational modelling) we can consider a Voronoi tesselation where is convenient to consider each cell $R_{k}$ with same area as well as same convex hull (except an linear transformation), this way each cell has same number of neighbors and we can neglet the area or form variations as capacity or propensity areas.  
 
